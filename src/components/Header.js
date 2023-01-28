@@ -2,9 +2,8 @@ import "./header.css";
 function Header() {
   return (
     <>
-      <nav class="navbar navbar-expand-lg navbar-light fixed-top border border-dark">
+      <nav class="navbar navbar-expand navbar-light  border border-dark">
         <div class="container-fluid inter-font">
-          <span class="navbar-brand">Portfolio</span>
           <button
             class="navbar-toggler"
             type="button"
@@ -19,31 +18,31 @@ function Header() {
           <div class="navbar-collapse collapse">
             <div class="navbar-nav mx-auto">
               <a
-                class="nav-link stact-nav-link nav-button active rounded"
+                class="nav-link stact-nav-link nav-button active rounded mx-2"
                 href="/"
               >
                 Home
               </a>
               <a
-                class="nav-link stact-nav-link nav-button active rounded"
+                class="nav-link stact-nav-link nav-button active rounded mx-2"
                 href="/about"
               >
                 About
               </a>
               <a
-                class="nav-link stact-nav-link nav-button active rounded"
+                class="nav-link stact-nav-link nav-button active rounded mx-2"
                 href="/experience"
               >
                 Experience
               </a>
               <a
-                class="nav-link stact-nav-link nav-button active rounded"
+                class="nav-link stact-nav-link nav-button active rounded mx-2"
                 href="/projects"
               >
                 Projects
               </a>
               <a
-                class="nav-link stact-nav-link nav-button active rounded"
+                class="nav-link stact-nav-link nav-button active rounded mx-2"
                 href="/contact"
               >
                 Contact
