@@ -1,0 +1,10 @@
+.inter-font {
+  font-family: "Inter";
+  font-weight: bold;
+  font-size: 11pt;
+}
+
+.nav-button:hover {
+  background-color: lightgray;
+  transition: 0.1s;
+}
