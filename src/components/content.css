@@ -1,5 +1,6 @@
 .bg-shade-green {
   background-color: #dcffdb;
+  overflow-x: hidden;
 }
 
 .container-fluid {

@@ -4,7 +4,7 @@ import resume from "../assets/Resume.pdf";
 
 function Content() {
   return (
-    <div class="container-fluid bg-shade-green border-bottom border-dark ">
+    <div class="container-fluid bg-shade-green border border-top-0 border-dark">
       <div class="row padding-content">
         <div class="col-xl-5 col-lg-6 align-self-center">
           <h1 class="dm-serif-font">Hi, I'm Krishna Praneet</h1>
