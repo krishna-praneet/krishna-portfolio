@@ -1,0 +1,28 @@
+.bg-shade-green {
+  background-color: #dcffdb;
+  overflow-x: hidden;
+}
+
+.container-fluid {
+  padding-right: 0;
+  padding-left: 0;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.dm-serif-font {
+  font-family: "DM Serif Display";
+  font-size: 70px;
+}
+
+.inter-font-thin {
+  font-family: "Inter";
+}
+
+.img-shadow {
+  box-shadow: 3px 3px;
+}
+
+.padding-content {
+  padding: 8%;
+}
