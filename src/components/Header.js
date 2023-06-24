@@ -21,31 +21,7 @@ function Header() {
                 class="nav-link stact-nav-link nav-button active rounded mx-2"
                 href="/"
               >
-                Home
-              </a>
-              <a
-                class="nav-link stact-nav-link nav-button active rounded mx-2"
-                href="/about"
-              >
-                About
-              </a>
-              <a
-                class="nav-link stact-nav-link nav-button active rounded mx-2"
-                href="/experience"
-              >
-                Experience
-              </a>
-              <a
-                class="nav-link stact-nav-link nav-button active rounded mx-2"
-                href="/projects"
-              >
-                Projects
-              </a>
-              <a
-                class="nav-link stact-nav-link nav-button active rounded mx-2"
-                href="/contact"
-              >
-                Contact
+                WELCOME TO MY WEBSITE!
               </a>
             </div>
           </div>
